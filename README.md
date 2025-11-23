@@ -74,23 +74,16 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 •	If any Error, correct it in code and execute again
 •	Verify the generated waveform using Tabulation and Model Waveform
 
-Program
-
-
 
 Output Waveform
-
-
-
-
+![WhatsApp Image 2025-11-23 at 17 00 37_d56c785d](https://github.com/user-attachments/assets/37f30127-8238-485d-a8b7-0911ad24ea4d)
 
 TABULATION:
-
-
+![WhatsApp Image 2025-11-23 at 17 00 32_c0321485](https://github.com/user-attachments/assets/93248cb5-5505-46b0-b5bc-bce91e59052d)
 
 Calculation
-1.	ma (Theory) = am/ac =
-2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) =
+1.	ma (Theory) = am/ac = 0.77
+2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.7626
 
 
 MODEL GRAPH
